@@ -1,1 +1,1 @@
-print('hellow')
+print('hellow, я вася, делаю свою работу')
